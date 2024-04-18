@@ -1,1 +1,1 @@
-# multi-rps
+# Multi RPS (Rock Paper Scissors)
